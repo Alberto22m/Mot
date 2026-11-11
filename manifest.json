@@ -1,28 +1,48 @@
 {
   "schemaVersion": 1,
-  "dbVersion": "2026.11.06.1",
-  "updatedAt": "2026-11-06T11:27:00Z",
+  "dbVersion": "2026.11.11.2",
+  "updatedAt": "2026-11-11T14:48:47Z",
   "minAppVersion": "1.0",
   "languages": {
     "en": {
       "file": "quotes_en.json",
-      "sha256": "31563dc63a107cdcec75fd9705a95c41ff4c7fc556aa4a7846a22ae1b029e7f7",
-      "count": 1312
+      "sha256": "0b81bea26a63ec0671bc0449e40aac78aa733e2bde0f1f50e02a0d0b02856e5b",
+      "count": 1612
     },
     "ru": {
       "file": "quotes_ru.json",
-      "sha256": "9450d3a7026c2661f359f54d1b231315f7918e18b39e58b70a21f7a50a90877d",
-      "count": 1312
+      "sha256": "abc6344161a212a53be976e46126ad0fad6089f3f47b79e869bfafd74498880d",
+      "count": 1612
     },
     "es": {
       "file": "quotes_es.json",
-      "sha256": "453e09f23c999cb7e11aa019096afd0e12d80fe3f474af82592571397f89a283",
-      "count": 1312
+      "sha256": "4aec66f8f670c843406679bfcf806a2f1008d20789a782264b2989ddd6e36b21",
+      "count": 1612
     },
     "fr": {
       "file": "quotes_fr.json",
-      "sha256": "ebf7ca6344a507042811b5c3099f9e780fdfcc5cc79a39e640888cf8a726aba1",
-      "count": 1312
+      "sha256": "acaa6ac626a86630ab74f2470773498bf0668844cee025d7e183f7159a4f0b59",
+      "count": 1612
+    },
+    "de": {
+      "file": "quotes_de.json",
+      "sha256": "2620526de130c5749d4ca9742ebdf01f637e298e81e1ed144950d0977993b00f",
+      "count": 1612
+    },
+    "ar": {
+      "file": "quotes_ar.json",
+      "sha256": "b949135970bc00d0a4f2c16f4ab967c03e5ba0a1d49f03c01363c19886fd74e3",
+      "count": 1612
+    },
+    "zh-Hans": {
+      "file": "quotes_zh-Hans.json",
+      "sha256": "66e1ec2fd9ed8f1ee05c82438077d7f551fa40696b7ce0cc3200d1aea193965b",
+      "count": 1612
+    },
+    "ja": {
+      "file": "quotes_ja.json",
+      "sha256": "1aec9d14c7892d844d6dbe7b5bf0ef21639bb5d57375f0e6f3447497bddf8353",
+      "count": 1612
     }
   }
 }
