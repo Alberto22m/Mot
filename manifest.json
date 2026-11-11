@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dbVersion": "2026.11.11.2",
-  "updatedAt": "2026-11-11T14:48:47Z",
+  "dbVersion": "2026.11.11.3",
+  "updatedAt": "2026-11-11T22:09:26Z",
   "minAppVersion": "1.0",
   "languages": {
     "en": {
@@ -26,17 +26,17 @@
     },
     "de": {
       "file": "quotes_de.json",
-      "sha256": "2620526de130c5749d4ca9742ebdf01f637e298e81e1ed144950d0977993b00f",
+      "sha256": "45a1e8a9c951151d4aa5d778d850961b621fef207baddad5138265b9229f02f3",
       "count": 1612
     },
     "ar": {
       "file": "quotes_ar.json",
-      "sha256": "b949135970bc00d0a4f2c16f4ab967c03e5ba0a1d49f03c01363c19886fd74e3",
+      "sha256": "bd13cc270243add1cdaeea3a21da06d985e81c92f26ab5fd3213a5559e8d5a44",
       "count": 1612
     },
     "zh-Hans": {
       "file": "quotes_zh-Hans.json",
-      "sha256": "66e1ec2fd9ed8f1ee05c82438077d7f551fa40696b7ce0cc3200d1aea193965b",
+      "sha256": "e06e8cde7c9143047e6c1262f2cfbc17df10bf3d6e0d7448bdeb0b4888802fba",
       "count": 1612
     },
     "ja": {
